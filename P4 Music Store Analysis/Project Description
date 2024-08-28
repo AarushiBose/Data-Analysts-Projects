@@ -1,1 +1,7 @@
+About this project
 
+Analyzed an online music store database and addressed business questions on employee seniority, invoice distribution, and customer behavior.
+
+Developed SQL queries to identify top cities and customers, analyze music genre preferences by country, and evaluate customer spending patterns.
+
+Tools used: PostgreSQL, PGAdmin
